@@ -5,7 +5,7 @@ Undergraduate Computer Science student with a strong interest in Front End Devel
 
 - 🔭 I’m currently working on [Smart Wheelchair Control Based on Spatial Features of Hand Gesture.](https://github.com/AgungHari/Smart-Wheelchair-Control-Based-on-Spatial-Features-of-Hand-Gesture)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **UI/UX Design**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syeedaothman&label=Profile%20views&color=0e75b6&style=flat" alt="syeedaothman" /> </p>
 

@@ -1,6 +1,12 @@
-<h2 align="left">Hi 👋! My name is Syeeda and I'm a Undergraduated Student from UTP.</h2>
+<h1 align="center">Hi 👋, I'm Syeeda</h1>
 
 Undergraduate Computer Science student with a strong interest in Front End Development. I am passionate about creating user-friendly and visually appealing web interfaces and have developed skills in HTML, CSS, JavaScript, and responsive design. Eager to continuously learn and apply new technologies in web development, I aim to contribute to the dynamic and innovative tech industry. With experience in both technical and collaborative environments, I thrive in problem-solving and creativity.
+
+- 🔭 I’m currently working on [Smart Wheelchair Control Based on Spatial Features of Hand Gesture.](https://github.com/AgungHari/Smart-Wheelchair-Control-Based-on-Spatial-Features-of-Hand-Gesture)
+
+- 💬 Ask me about **React**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syeedaothman&label=Profile%20views&color=0e75b6&style=flat" alt="syeedaothman" /> </p>
 
 ###
 

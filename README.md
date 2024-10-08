@@ -46,3 +46,13 @@ Undergraduate Computer Science student with a strong interest in Front End Devel
 <img src="https://raw.githubusercontent.com/SyeedaOthman/SyeedaOthman/output/snake.svg" alt="Snake animation" />
 
 ###
+
+### 🖥️ Open-Source Project
+<table align="center">
+<tr><th>Computer Vision Project</th></tr>
+<tr><td>
+
+|Title | Stars | Tech|
+|--|--|--|
+| [Smart Wheelchair Control Based on <br> Spatial Features of Hand Gesture](https://github.com/AgungHari/Smart-Wheelchair-Control-Based-on-Spatial-Features-of-Hand-Gesture) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/Smart-Wheelchair-Control-Based-on-Spatial-Features-of-Hand-Gesture?style=flat-square&labelColor=black"/> | ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-black?style=flat-square&logo=scikitlearn) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) <br>  ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) ![MediaPipe](https://img.shields.io/badge/MediaPipe-black?style=flat-square&logo=mediapipe) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![LaTeX](https://img.shields.io/badge/LaTeX-black?style=flat-square&logo=latex) |
+</td></tr> </table>

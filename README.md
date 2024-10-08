@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,latex,scikitlearn,matlab,py,cpp,html,css,js,dart,tailwind,react,docker,postgres,mysql,firebase,mongodb,kotlin,flutter,typescript" width = "600"/>
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,latex,scikitlearn,matlab,py,cpp,html,css,js,dart,tailwind,react,docker,postgres,mysql,firebase,mongodb,kotlin,flutter,typescript" width = "580"/>
   </a>
 </p>
 

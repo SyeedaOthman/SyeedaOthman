@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Syeeda and I'm a Undergraduated Student from UTP.</h2>
 
+Undergraduate Computer Science student with a strong interest in Front End Development. I am passionate about creating user-friendly and visually appealing web interfaces and have developed skills in HTML, CSS, JavaScript, and responsive design. Eager to continuously learn and apply new technologies in web development, I aim to contribute to the dynamic and innovative tech industry. With experience in both technical and collaborative environments, I thrive in problem-solving and creativity.
+
 ###
 
 <div align="center">
